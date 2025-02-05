@@ -6,3 +6,7 @@
 - [OSDI '23 technical sessions](https://www.usenix.org/conference/osdi23/technical-sessions)
 - [Linux CVE announce mailing list](https://lore.kernel.org/linux-cve-announce/?t=20240501052146)
 - [USENIX Security '24 technical sessions](https://www.usenix.org/conference/usenixsecurity24/technical-sessions)
+- [National Vulnerability Database](https://nvd.nist.gov/vuln/search)
+- [Ottawa Linux Symposium - Linux kernel doc](https://www.kernel.org/doc/ols/)
+- [OpenBSD security](https://www.openbsd.org/security.html)
+- [@maxking's collection of papers related to Linux](https://github.com/maxking/linux-security-papers)
