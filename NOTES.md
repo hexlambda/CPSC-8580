@@ -5,7 +5,6 @@
   - [Security and Performance in the Delegated User-level Virtualization](https://www.usenix.org/conference/osdi23/presentation/chen)
 - [OSDI '23 technical sessions](https://www.usenix.org/conference/osdi23/technical-sessions)
   - [Core slicing: closing the gap between leaky confidential VMs and bare-metal cloud](https://www.usenix.org/system/files/osdi23-zhou-ziqiao.pdf)
-  - 
 - [Linux CVE announce mailing list](https://lore.kernel.org/linux-cve-announce/?t=20240501052146)
 - [USENIX Security '24 technical sessions](https://www.usenix.org/conference/usenixsecurity24/technical-sessions)
   - [Rise of Inspectron: Automated Black-box Auditing of Cross-platform Electron Apps](https://www.usenix.org/system/files/usenixsecurity24-ali.pdf)
